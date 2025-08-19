@@ -1,0 +1,63 @@
+*{
+    box-sizing: border-box;
+    margin: 0px;
+    font-family:  'Comic Neue', cursive;
+}
+.Skills{
+    background-color: #2b303a;
+}
+.nav3{
+    height: 60px;
+    width: 100%;
+    
+    display: flex;
+    justify-content: flex-start;
+    padding-left: 50px;
+    padding-top: 50px;
+}
+.table{
+    height: 567px;
+    width: 100%;
+  
+    display: flex;
+}
+.soft{
+    width: 50%;
+    height: 100%;
+   
+     display: flex;
+    justify-content: center;
+    align-items: center;
+    padding-top: 100px;
+   
+}
+.hard{
+    width: 50%;
+    height: 100%;
+  
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding-bottom: 180px;
+}
+table,th,td{
+    border: 2px solid #f6838b;
+
+    border-collapse: separate;
+    border-spacing: 4px;
+    padding: 10px;
+    border-radius: 10px;
+    width: 60%;
+    height: 70%;
+
+
+}
+th,td{
+    background-color: #f6838b;
+     border-radius: 10px;
+     text-align: center;
+     padding: 8px;
+     border-style: outset;
+
+}
+

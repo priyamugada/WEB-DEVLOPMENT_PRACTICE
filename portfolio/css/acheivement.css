@@ -1,0 +1,35 @@
+*{
+    box-sizing: border-box;
+    margin: 0px;
+}
+.nav5{
+    
+    height: 60px;
+    width: 100%;
+    display: flex;
+    justify-content: flex-start;
+    padding: 20px 0px 0px 40px;
+    background-color: #2b303a;
+
+}
+.ach{
+    
+    height: 567px;
+    width: 100%;
+    display: flex;
+}
+.cer{
+   
+    height: 100%;
+    width: 33.33%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color:  #f6838b;
+}
+.val{
+    height: 60%;
+    width: 50%;
+    border: 2px solid black;
+    
+}
